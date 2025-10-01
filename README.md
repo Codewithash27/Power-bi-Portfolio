@@ -13,7 +13,7 @@ A foundational dashboard exploring core Power BI functionalities.
   - **Date and Orders Trend:** A line chart showing the progression of orders over time.
 - **Skills Demonstrated:** Basic visualization, data import, and report formatting.
 
-![Introduction to Power BI](images/image1.png)
+![Introduction to Power BI](https://github.com/Codewithash27/Power-bi-Portfolio/blob/main/images/Introdution%20to%20Power%20Bi.png)
 
 ---
 
