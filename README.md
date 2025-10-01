@@ -26,7 +26,7 @@ This dashboard focuses on date intelligence functions and a detailed product-wis
   - **Top Products by Revenue:** A bar chart ranking products based on total revenue.
 - **Skills Demonstrated:** DAX functions (e.g., for unique counts), profitability analysis, and advanced chart types.
 
-![Day Function and Profitability Analysis](images/image2.png)
+![Day Function and Profitability Analysis](https://github.com/Codewithash27/Power-bi-Portfolio/blob/main/images/Dax%20Function.png)
 
 ---
 
