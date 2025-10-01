@@ -61,3 +61,21 @@ A technical dashboard focused on Time Intelligence functions to track performanc
 - **Visualization:** Developed a variety of charts including Bar Charts, Line Charts, Donut Charts, Maps, and Tables.
 
 ## 📁 Repository Structure
+power-bi-portfolio/
+│
+├── 📂 Dashboards/                    # Power BI project files
+│   ├── Introduction To Power Bi.pbix
+│   ├── Dax Function_new.pbix
+│   ├── Sales Dashboard.pbix
+│   ├── DATE Operations.pbix
+│   └── Tree.Funnel,Waterfall.pbix
+│
+├── 📂 images/                        # Dashboard screenshots
+│   ├── image1.png
+│   ├── image2.png
+│   ├── image3.png
+│   └── Date Operation.png
+│
+├── 📄 README.md                      # Project documentation
+├── 📄 .gitignore                     # Git ignore rules
+└── 📄 LICENSE                        # MIT License
