@@ -39,7 +39,7 @@ A comprehensive sales performance dashboard for a US-based region, analyzing rev
   - **Profit & Expense Trends:** A combined chart analyzing the relationship between revenue, profit, and expenses over time.
 - **Skills Demonstrated:** Time-series analysis, geographical data visualization, and comparative performance tracking.
 
-![Sales Dashboard](images/image3.png)
+![Sales Dashboard](https://github.com/Codewithash27/Power-bi-Portfolio/blob/main/images/Sales%20Dash.png)
 
 ---
 
