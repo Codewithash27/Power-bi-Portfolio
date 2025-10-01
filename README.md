@@ -63,19 +63,20 @@ A technical dashboard focused on Time Intelligence functions to track performanc
 ## 📁 Repository Structure
 power-bi-portfolio/
 │
-├── 📂 Dashboards/                    # Power BI project files
-│   ├── Introduction To Power Bi.pbix
-│   ├── Dax Function_new.pbix
-│   ├── Sales Dashboard.pbix
-│   ├── DATE Operations.pbix
-│   └── Tree.Funnel,Waterfall.pbix
+├── 📂 Dashboards/                     # Power BI project files
+│   ├── Introduction-to-Power-BI.pbix
+│   ├── DAX-Functions.pbix
+│   ├── Sales-Dashboard.pbix
+│   ├── Date-Operations.pbix
+│   └── Tree-Funnel-Waterfall.pbix
 │
-├── 📂 images/                        # Dashboard screenshots
-│   ├── image1.png
-│   ├── image2.png
-│   ├── image3.png
-│   └── Date Operation.png
+├── 📂 Images/                         # Dashboard screenshots
+│   ├── sales-overview.png
+│   ├── customer-analysis.png
+│   ├── profit-metrics.png
+│   └── date-operations.png
 │
-├── 📄 README.md                      # Project documentation
-├── 📄 .gitignore                     # Git ignore rules
-└── 📄 LICENSE                        # MIT License
+├── 📄 README.md                       # Project documentation
+├── 📄 .gitignore                       # Git ignore rules
+└── 📄 LICENSE                          # MIT License
+
