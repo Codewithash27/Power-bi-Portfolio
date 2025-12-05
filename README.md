@@ -6,7 +6,7 @@ This repository contains a collection of interactive Power BI dashboards develop
 ## 📊 Dashboard Overview
 
 ### 1. Introduction to Power BI
-A foundational dashboard exploring core Power BI functionalities.
+A foundational dashboard exploring core Power BI functionalities. 
 - **Key Visuals:**
   - **Sum of Salary by Name:** A bar chart displaying salary distribution across employees.
   - **Sum of Orders by State:** A map or bar chart visualizing order volumes across different Indian states.
